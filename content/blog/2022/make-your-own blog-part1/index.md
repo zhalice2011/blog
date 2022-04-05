@@ -24,12 +24,12 @@ npm install -g gatsby-cli
 
 使用该模板建立你的`gatsby`博客
 ```shell
-gatsby new blog https://github.com/zhalice2011/blog
+gatsby new my-blog https://github.com/zhalice2011/blog
 ```
 
 进入开发
 ```shell
-cd blog
+cd my-blog
 gatsby develop
 ```
 

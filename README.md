@@ -12,13 +12,13 @@ npm install -g gatsby-cli
 ### Install and start locally:
 
 ```shell
-gatsby new blog https://github.com/zhalice2011/blog
+gatsby new my-blog https://github.com/zhalice2011/blog
 ```
 
 ### Start the site in develop mode
 
 ```shell
-cd blog
+cd my-blog
 gatsby develop
 ```
 
